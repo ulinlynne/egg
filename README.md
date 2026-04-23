@@ -8,4 +8,4 @@
 
 <div id="egg"></div>
 
-![egg](egg.jpg)
+![egg](egg.png)
