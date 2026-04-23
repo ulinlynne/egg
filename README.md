@@ -8,4 +8,4 @@
 
 <div id="egg"></div>
 
-![可愛貓貓](egg.jpg)
+![egg](egg.jpg)
